@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.card {
+  display: flex;
+  margin: 20px;
+  padding: 16px;
+  background-color: #8dc3f2;
+  width: 1px solid;
+  border: 1px solid;
+  align-items: center;
+}
+
+.card-image {
+  margin-right: 20px;
+}
+
+.card-content {
+  margin: 0;
+  padding: 10px;
+}
+
+h3 {
+  font-size: 18px;
+  color: #730202;
+}
+
+p {
+  font-size: 16px;
+  color: #2e1614;
+}

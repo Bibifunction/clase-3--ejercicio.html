@@ -1,0 +1,38 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.card {
+  margin: 20px;
+  padding: 16px;
+  background-color: #8dc3f2;
+  width: 1px solid;
+  border: 1px solid;
+  align-items: center;
+}
+
+.card-image {
+  width: 100px;
+  height: 100px;
+  margin-right: 20px;
+}
+
+.card-content {
+  display: inline-block;
+  margin: 0;
+  padding: 10px;
+  width: calc(100% - 140px);
+}
+
+h3 {
+  font-size: 18px;
+  color: #730202;
+}
+
+p {
+  font-size: 16px;
+  color: #2e1614;
+}
